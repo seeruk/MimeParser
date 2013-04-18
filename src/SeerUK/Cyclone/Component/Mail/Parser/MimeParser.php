@@ -9,7 +9,7 @@
  * http://license.visualidiot.com/
  */
 
-namespace SeerUK\Cyclone\Component\MimeParser\Parser;
+namespace SeerUK\Cyclone\Component\Mail\Parser;
 
 /**
  * Class that parses email messages
